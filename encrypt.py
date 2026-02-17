@@ -1,5 +1,5 @@
 # My Ethereum Block-Shift Project
-# This is a simple encryption script based on Chapter 3
+# This is a simple encryption script
 
 def my_encrypt_function(message, block_number):
     # This will hold the scrambled letters
